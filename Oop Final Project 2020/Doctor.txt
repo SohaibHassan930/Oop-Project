@@ -1,0 +1,24 @@
+First Name: gdf
+Last Name: hgd
+Department Name: Dental
+Doctor ID: DE1002
+User Name: gfs
+Password: gfgds
+Registration Date: fgs
+Gender: Male
+Contact Number: 09876543211
+Blood Group: f
+Address: gdffx
+_________________________________
+First Name: gds
+Last Name: gd
+Department Name: Dental
+Doctor ID: DE1003
+User Name: tgtds
+Password: tde
+Registration Date: gdc
+Gender: Male
+Contact Number: 12345678900
+Blood Group: h
+Address: ggdc
+_________________________________

@@ -1,0 +1,30 @@
+First Name: Haseeb
+Last Name: Tahir
+Department Name: Dental
+Doctor ID: DE1001
+User Name: H@seeb
+Password: 1234
+Registration Date: 2-3-2020
+Gender: Male
+Contact Number: 03157427559
+Blood Group: A+
+Address: Muhallah Poran Plad
+Fee status: Rs0
+Qualification: FSC
+Salary: 12000
+_________________________________
+First Name: Shaib
+Last Name: Hassan
+Department Name: Accident & Emergency
+Doctor ID: AE1001
+User Name: Sohaib.123
+Password: affan.345
+Registration Date: 3-1-2021
+Gender: Male
+Contact Number: 03217615314
+Blood Group: A+
+Address: Lahore
+Fee status: Rs0
+Qualification: FSC
+Salary: 34560
+_________________________________
