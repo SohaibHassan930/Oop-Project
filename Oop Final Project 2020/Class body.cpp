@@ -5,7 +5,7 @@
 #include<cstdlib>
 #include<time.h>
 #include<conio.h>
-#include<Windows.h>
+#include<Windows.h>   
 int Addministrate::docId = 1000;
 int Addministrate::patientId = 1000;
 void Addministrate::sign_up()
